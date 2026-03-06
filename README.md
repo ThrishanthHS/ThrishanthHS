@@ -1,5 +1,5 @@
 # Hi, I'm Thrishanth 👋
-## Aspiring ML Engineer | Open Source Enthusiast | Based in Bengaluru, India
+Aspiring ML Engineer | Open Source Enthusiast | Based in Bengaluru, India
 
 
 ## 🌐 Socials:
