@@ -1,6 +1,6 @@
 # Hi, I'm Thrishanth 👋
 Aspiring ML Engineer | Open Source Enthusiast | Based in Bengaluru, India.
-I'm a fresher actively building my path into Machine Learning Engineering with a strong focus on real-world, impactful applications. I'm particularly passionate about using AI and data to solve environmental challenges.
+I'm a fresher actively building my path into Machine Learning Engineering with a strong focus on real-world, impactful applications. I'm particularly passionate about using AI and data to solve environmental challenges..
 
 
 ## 🌐 Socials:
