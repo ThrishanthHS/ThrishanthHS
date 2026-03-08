@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,1a1a1a,111111&height=220&section=header&text=Thrishanth%20H%20S&fontSize=58&fontColor=C9A84C&fontAlignY=40&desc=Aspiring%20ML%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descColor=8a7040&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,161616,1a1a1a&height=200&section=header&text=Thrishanth%20H%20S&fontSize=62&fontColor=C9A84C&fontAlignY=42&desc=Machine%20Learning%20Engineer%20in%20the%20Making&descColor=7a6535&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=24&pause=1200&color=C9A84C&background=0D0D0D00&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+for+Real-World+Impact;Machine+Learning+Engineer+in+the+Making;Passionate+About+AI+for+Environmental+Good;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ThrishanthHS&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS&labelColor=1a1a1a)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&pause=1400&color=C9A84C&background=00000000&center=true&vCenter=true&width=700&lines=Building+ML+Systems+That+Actually+Matter;AI+for+Environmental+Impact;Learning+in+Public+%E2%80%94+Building+Every+Day;Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,25 +14,23 @@
 
 ---
 
-## ⬡ &nbsp; About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=2&section=header&reversal=false" width="80%"/>
+</div>
 
-Honestly? I didn't fall in love with Machine Learning through a textbook.
+## &nbsp; About Me
 
-It started when I was trying to figure out why a simple spam filter worked — and I ended up in a 3-hour rabbit hole reading about how machines actually *learn* patterns from data. That was the moment something clicked. Not just intellectually, but in a *"this is what I want to spend my time on"* kind of way.
+I'm **Thrishanth** — a fresher from Bengaluru building my path into Machine Learning Engineering, one concept at a time.
 
-I'm **Thrishanth**, a fresher actively building my path into Machine Learning Engineering with a focus on real-world, impactful applications — particularly where **AI meets environmental challenges**. I believe the most meaningful technology is the kind that leaves the world measurably better than it found it.
+My interest in ML started from a simple question — *how does a machine actually learn from data?* That curiosity turned into a structured commitment. I'm currently on a focused 10-month roadmap, learning the right things in the right order, building real projects, and documenting every step publicly.
 
-Most of my learning happens outside the classroom. I've built projects with messy real-world datasets that taught me more than any clean CSV ever could, and spent more hours debugging models than I'd like to admit. Each project has made me a sharper thinker and a more careful engineer.
+My focus is on applying AI to solve problems that matter — particularly in the environmental space. I believe the most valuable engineers aren't just the ones who build the most complex models, but the ones who understand why those models work and whether they're solving something real.
 
-I think the best ML engineers aren't just people who can train a model — they're people who ask *why* the model behaves the way it does, and who care whether the output actually solves something meaningful. That's the kind of engineer I'm working to become.
-
-I approach problems with a lot of curiosity and very little ego. I ask questions, read papers, revisit assumptions, and I'm genuinely okay being the least experienced person in the room — as long as I'm learning.
-
-> *"Actively seeking internship opportunities in Machine Learning and AI — where I can contribute meaningfully and grow fast."*
+> Currently building toward a **Machine Learning Engineer** role by December 2026.
 
 ---
 
-## ◈ &nbsp; Connect With Me
+## &nbsp; Connect With Me
 
 <div align="center">
 
@@ -54,55 +46,31 @@ I approach problems with a lot of curiosity and very little ego. I ask questions
 
 ---
 
-## ◈ &nbsp; ML Engineering Stack
+## &nbsp; Current Stack
 
 <div align="center">
-
-**Core Language**
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=C9A84C)
-
-**Machine Learning & Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=C9A84C)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=C9A84C)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=C9A84C)
-![Keras](https://img.shields.io/badge/Keras-0a0a0a?style=for-the-badge&logo=keras&logoColor=C9A84C)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=C9A84C)
+&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=C9A84C)
-![Plotly](https://img.shields.io/badge/Plotly-0a0a0a?style=for-the-badge&logo=plotly&logoColor=C9A84C)
+&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=C9A84C)
+&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=python&logoColor=C9A84C)
-
-**MLOps & Deployment**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=C9A84C)
+&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=for-the-badge&logo=jupyter&logoColor=C9A84C)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0a0a0a?style=for-the-badge&logo=googlecolab&logoColor=C9A84C)
+&nbsp;
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=C9A84C)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=C9A84C)
-
-**Database**
-
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=C9A84C)
 
 </div>
 
 ---
 
-## ◈ &nbsp; GitHub Analytics
+## &nbsp; GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThrishanthHS&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&icon_color=C9A84C&text_color=8a7040&ring_color=C9A84C&include_all_commits=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThrishanthHS&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&text_color=8a7040" height="165"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ThrishanthHS&hide_border=true&background=0a0a0a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=8a7040&dates=8a7040&sideNums=C9A84C&currStreakNum=C9A84C" width="500"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ThrishanthHS&hide_border=true&background=0a0a0a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=7a6535&dates=7a6535&sideNums=C9A84C&currStreakNum=C9A84C&stroke=1a1a1a" width="480"/>
 
 </div>
 
@@ -110,10 +78,18 @@ I approach problems with a lot of curiosity and very little ego. I ask questions
 
 <div align="center">
 
-*— Every great journey begins with a single visit —*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThrishanthHS&bg_color=0a0a0a&color=C9A84C&line=C9A84C&point=C9A84C&area=true&area_color=1a1a1a&hide_border=true&title_color=C9A84C" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Every commit is a step. Every project is proof.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,111111,1a1a1a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a,111111,0a0a0a&height=100&section=footer" width="100%"/>
 
 </div>
