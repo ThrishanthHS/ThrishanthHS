@@ -1,9 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,161616,1a1a1a&height=200&section=header&text=Thrishanth%20H%20S&fontSize=62&fontColor=C9A84C&fontAlignY=42&desc=Machine%20Learning%20Engineer%20in%20the%20Making&descColor=7a6535&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
-</div>
-
----
-
 👋 &nbsp;**Hey, I'm Thrishanth.**
 
 I build ML systems and document every step of the learning process in public.
@@ -41,17 +35,7 @@ I build ML systems and document every step of the learning process in public.
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ThrishanthHS&hide_border=true&background=0a0a0a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=7a6535&dates=7a6535&sideNums=C9A84C&currStreakNum=C9A84C&stroke=1a1a1a" width="480"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThrishanthHS&bg_color=0a0a0a&color=C9A84C&line=C9A84C&point=C9A84C&area=true&area_color=1a1a1a&hide_border=true&title_color=C9A84C" width="95%"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a,111111,0a0a0a&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ThrishanthHS&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&icon_color=C9A84C&text_color=7a6535&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThrishanthHS&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&text_color=7a6535" height="180"/>
 </div>
