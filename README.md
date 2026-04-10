@@ -35,7 +35,7 @@ I build ML systems and document every step of the learning process in public.
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ThrishanthHS&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&icon_color=C9A84C&text_color=7a6535&rank_icon=github" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ThrishanthHS&hide_border=true&background=0a0a0a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=7a6535&dates=7a6535&sideNums=C9A84C&currStreakNum=C9A84C&stroke=1a1a1a" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThrishanthHS&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&text_color=7a6535" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThrishanthHS&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&text_color=7a6535&langs_count=6" height="180"/>
 </div>
