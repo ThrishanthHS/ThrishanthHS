@@ -32,6 +32,4 @@ I build ML systems and document every step of the learning process in public.
 
 ---
 
-## 📊 &nbsp;GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThrishanthHS&theme=github_dark" height="180"/>
